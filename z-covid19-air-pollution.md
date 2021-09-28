@@ -11,6 +11,5 @@ This project is working at the intersection of air quality, transportation, and 
 
 # Deliverables
 * Identify and visualize key shifts in transit usage due to stay-at-home orders
-* Create a dynamic model showing the shift of public transportation (time lapse)
 * White paper on line extension and air pollution mitigation
 * Communicate policy plans with community and constraining given input
