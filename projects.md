@@ -28,9 +28,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>COVID-19 and Air Pollution in Chicago</h3>
+					<h3>Green Space Distribution</h3>
 				</header>
-				<p>This project is working at the intersection of air quality, transportation, and COVID-19 in the City of Chicago. The change in behavior from the pandemic has created a unique public transportation dataset, representing only the essential trips people have to make. Insights from this data will be used to recommend public transportation upgrades and highlight the air quality benefits this new infrastructure would bring.</p>
+				<p>This project focuses specifically on trying to quantify the connection between green space, access to green space, and environmental justice issues in Chicago. Previous research has shown that such heterogeneous distributions of space uphold environmental racism. Can we find a causal link in Chicago? Is green space really that important? What are possible solutions to the lack of equitable green space distribution in Chicago?
+</p>
 				<ul class="actions">
 					<li><a href="z-covid19-air-pollution.html" class="button">Learn more</a></li>
 				</ul>
@@ -47,6 +48,26 @@ nav-menu: true
 		</header>
 		<p>Listed below are our past projects.</p>
 	</div>
+</section>
+	
+<!-- Four -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="z-covid19-air-pollution.html" class="image"> 
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>COVID-19 and Air Pollution in Chicago</h3>
+				</header>
+				<p>This project is working at the intersection of air quality, transportation, and COVID-19 in the City of Chicago. The change in behavior from the pandemic has created a unique public transportation dataset, representing only the essential trips people have to make. Insights from this data will be used to recommend public transportation upgrades and highlight the air quality benefits this new infrastructure would bring.</p>
+				<ul class="actions">
+					<li><a href="z-covid19-air-pollution.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 
