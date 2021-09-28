@@ -107,7 +107,7 @@ nav-menu: true
 			<h4 style="text-align:center"><i>Co-Data Analysis Working Group Leader</i></h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			
+
 		</div>
 		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center">Theo Lesser</h3>
