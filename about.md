@@ -67,35 +67,35 @@ nav-menu: true
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_michael.png" alt="Michael Han">
-			<h3 style="text-align:center">Michael Han | Director of Community Outreach</h3>
+			<h4 style="text-align:center">Michael Han | Director of Community Outreach</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<img src="assets/images/img_alex.png" alt="Alex Viviano">
-			<h3 style="text-align:center">Alex Viviano | Director of Policy</h3>
+			<h4 style="text-align:center">Alex Viviano | Director of Policy</h4>
 		</div>
     		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_jessica.png" alt="Jessica Zhong">
-			<h3 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h3>
+			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_perrin.png" alt="Perrin Davidson">
-			<h3 style="text-align:center">Perrin Davidson | Director of Research</h3>
+			<h4 style="text-align:center">Perrin Davidson | Director of Research</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<img src="assets/images/img_marianna.png" alt="Diya Gandhi">
-			<h3 style="text-align:center">Diya Gandhi | Co-Organizing Working Group Leader</h3>
+			<h4 style="text-align:center">Diya Gandhi | Co-Organizing Working Group Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_juni.png" alt="Emily Nigro">
-			<h3 style="text-align:center">Emily Nigro | Co-Organizing Working Group Leader</h3>
+			<h4 style="text-align:center">Emily Nigro | Co-Organizing Working Group Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_jessica.png" alt="Matheu Boucher">
-			<h3 style="text-align:center">Matheu Boucher | Co-Data Analysis Working Group Leader</h3>
+			<h4 style="text-align:center">Matheu Boucher | Co-Data Analysis Working Group Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<img src="assets/images/img_jessica.png" alt="Caleb Weis">
-			<h3 style="text-align:center">Caleb Weis | Co-Data Analysis Working Group Leader</h3>
+			<h4 style="text-align:center">Caleb Weis | Co-Data Analysis Working Group Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center"></h3>
@@ -103,7 +103,7 @@ nav-menu: true
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_jessica.png" alt="Theo Lesser">
-			<h3 style="text-align:center">Theo Lesser | Policy Working Group Leader</h3>
+			<h4 style="text-align:center">Theo Lesser | Policy Working Group Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<h3 style="text-align:center"></h3>
