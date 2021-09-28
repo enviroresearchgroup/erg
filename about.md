@@ -82,19 +82,19 @@ nav-menu: true
 			<h4 style="text-align:center">Perrin Davidson | Director of Research</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
-			<img src="assets/images/img_diya.jpeg" alt="Diya Gandhi">
+			<img src="assets/images/img_diya.png" alt="Diya Gandhi">
 			<h4 style="text-align:center">Diya Gandhi | Co-Organizing Working Group Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_emily.jpeg" alt="Emily Nigro">
+			<img src="assets/images/img_emily.png" alt="Emily Nigro">
 			<h4 style="text-align:center">Emily Nigro | Co-Organizing Working Group Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_matheu.jpeg" alt="Matheu Boucher">
+			<img src="assets/images/img_matheu.png" alt="Matheu Boucher">
 			<h4 style="text-align:center">Matheu Boucher | Co-Data Analysis Working Group Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
-			<img src="assets/images/img_caleb.jpeg" alt="Caleb Weis">
+			<img src="assets/images/img_caleb.png" alt="Caleb Weis">
 			<h4 style="text-align:center">Caleb Weis | Co-Data Analysis Working Group Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
