@@ -107,9 +107,15 @@ nav-menu: true
 			<h4 style="text-align:center"><i>Co-Data Analysis Working Group Leader</i></h4>
 		</div>
 		<div class="4u 12u$(medium)">
+			
+		</div>
+		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center">Theo Lesser</h3>
 			<img src="assets/images/img_jessica.png" alt="Theo Lesser">
 			<h4 style="text-align:center"><i>Policy Working Group Leader</i></h4>
+		</div>
+		<div class="4u$ 12u$(medium)">
+			
 		</div>
 	</div>
 </div>
