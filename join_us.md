@@ -6,6 +6,7 @@ image: assets/images/updates.jpg
 nav-menu: true
 ---
 
+<!-- 
 <!-- Main -->
 <div id="main">
 
@@ -72,3 +73,5 @@ nav-menu: true
 </section>
 
 </div>
+
+-->
