@@ -2,6 +2,7 @@
 layout: landing
 title: Projects
 description: What we're working on
+image: assets/images/img_projects.jpeg
 nav-menu: true
 ---
 
