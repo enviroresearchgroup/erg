@@ -29,16 +29,16 @@ nav-menu: true
 		</header>
 
 <!-- Content Two-->
-<p>The Environmental Research Group has four main Working Groups. </p>
+<p>The Environmental Research Group has three main Working Groups. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Data Analysis</h3>
 		<p>The Data Analysis working group quality controls, performs statistical analyses on, and produces engaging graphics of our project data sets.</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+<!--	<div class="6u$ 12u$(small)">
 		<h3>Modeling</h3>
 		<p>The Modeling working group works with and develops geospatial and temporal environmental models, with particular interest in Machine Learning.</p>
-	</div>
+	</div> -->
 	<div class="6u 12u$(small)">
 		<h3>Policy</h3>
 		<p>The Policy working group synthesizes the output from the Data Analysis and Modeling working groups with their own social science research to produce novel policy solutions to environmental and urban problems.</p>
