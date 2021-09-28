@@ -1,7 +1,7 @@
 ---
-title: Updates
+title: Join Us
 layout: landing
-description: Check in on our recent activity, reports, and public engagment
+description: The ERG is open to current UChicago students.
 image: assets/images/updates.jpg
 nav-menu: true
 ---
