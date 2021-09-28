@@ -63,7 +63,7 @@ nav-menu: true
 	<div class="row">
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_walker.png" alt="Walker Gillet">
-			<h3 style="text-align:center">Walker Gillett | President</h3>
+			<h4 style="text-align:center">Walker Gillett | President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_michael.png" alt="Michael Han">
