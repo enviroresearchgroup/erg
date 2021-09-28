@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: About Us
-description: Learn more about the ERG and its leadership
+description: Learn more about the ERG and our leadership
 image: assets/images/about.jpg
 nav-menu: true
 ---
