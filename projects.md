@@ -33,7 +33,7 @@ nav-menu: true
 				<p>This project focuses specifically on trying to quantify the connection between green space, access to green space, and environmental justice issues in Chicago. Previous research has shown that such heterogeneous distributions of space uphold environmental racism. Can we find a causal link in Chicago? Is green space really that important? What are possible solutions to the lack of equitable green space distribution in Chicago?
 </p>
 				<ul class="actions">
-					<li><a href="z-covid19-air-pollution.html" class="button">Learn more</a></li>
+					<li><a href="z-green-space-chicago.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
