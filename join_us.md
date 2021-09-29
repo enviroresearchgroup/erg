@@ -6,7 +6,7 @@ image: assets/images/updates.jpg
 nav-menu: true
 ---
 
-<!-- 
+
 <!-- Main -->
 <div id="main">
 
@@ -31,13 +31,15 @@ nav-menu: true
 				<header class="major">
 					<h3>Update 1</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Tuesday 10/05 Harper 130</p>
+				<p>Sunday 10/10 Stuart 101</p>
 				<ul class="actions">
 					<li><a href="{% post_url 2016-8-20-etiam %}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+<!-- 
 	<section>
 		<a href="2016-8-20-etiam.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
@@ -70,8 +72,9 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+-->
+
 </section>
 
 </div>
 
--->
