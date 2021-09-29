@@ -34,7 +34,7 @@ nav-menu: true
 				<p>Tuesday 10/05 Harper 130</p>
 				<p>Sunday 10/10 Stuart 101</p>
 				<ul class="actions">
-					<li><a href="https://www.facebook.com/envirochicago" class="button">Learn more</a></li>
+					<li><a href="https://www.facebook.com/envirochicago/events" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
