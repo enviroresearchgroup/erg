@@ -49,7 +49,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Application</h3>
 				</header>
-				<p>Comming on 10/01</p>
+				<p>Coming on 10/01</p>
 			<!--
 				<ul class="actions">
 					<li><a href="2016-8-20-etiam.html" class="button">Apply</a></li>
