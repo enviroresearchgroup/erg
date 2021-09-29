@@ -31,8 +31,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Fall Info Sessions</h3>
 				</header>
-				<p>Tuesday 10/05 Harper 130
-				Sunday 10/10 Stuart 101</p>
+				<p>Tuesday 10/05 Harper 130</p>
+				<p>Sunday 10/10 Stuart 101</p>
 				<ul class="actions">
 					<li><a href="https://www.facebook.com/envirochicago" class="button">Learn more</a></li>
 				</ul>
