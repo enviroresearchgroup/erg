@@ -39,7 +39,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-<!-- 
+
 	<section>
 		<a href="2016-8-20-etiam.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
@@ -47,15 +47,19 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Update 2</h3>
+					<h3>Application</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Comming on 10/01</p>
+			<!--
 				<ul class="actions">
-					<li><a href="2016-8-20-etiam.html" class="button">Learn more</a></li>
+					<li><a href="2016-8-20-etiam.html" class="button">Apply</a></li>
 				</ul>
+			-->
+			
 			</div>
 		</div>
 	</section>
+<!-- 
 	<section>
 		<a href="2016-8-20-etiam.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
