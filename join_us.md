@@ -23,7 +23,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="{% post_url 2016-8-20-etiam %}" class="image">
+		<a class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -41,7 +41,7 @@ nav-menu: true
 	</section>
 
 	<section>
-		<a href="2016-8-20-etiam.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
