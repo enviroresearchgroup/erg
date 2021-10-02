@@ -102,7 +102,7 @@ nav-menu: true
 			<h4 style="text-align:center"><i></i></h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_jacob.png" alt="Theo Lesser">
+			<img src="assets/images/img_theo.png" alt="Theo Lesser">
 			<h4 style="text-align:center">Theo Lesser | Policy Working Group Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
