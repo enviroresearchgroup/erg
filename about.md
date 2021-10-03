@@ -75,7 +75,7 @@ nav-menu: true
 		</div>
     		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_jessica.png" alt="Jessica Zhong">
-			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
+			<h4 style="text-align:center">Jessica Zhong | Director of Communications</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_perrin.png" alt="Perrin Davidson">
