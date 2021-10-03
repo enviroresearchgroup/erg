@@ -51,7 +51,7 @@ nav-menu: true
 				</header>
 				<p>Due 10/10 at 11:59 pm CDT</p>
 				<ul class="actions">
-					<li><a href="https://forms.gle/MrBLo59ehoKuqyhu7 class="button">Apply</a></li>
+					<li><a href="https://forms.gle/MrBLo59ehoKuqyhu7" class="button">Apply</a></li>
 				</ul>
 			
 			</div>
