@@ -83,19 +83,19 @@ nav-menu: true
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<img src="assets/images/img_diya.png" alt="Diya Gandhi">
-			<h4 style="text-align:center">Diya Gandhi | Co-Organizing Working Group Leader</h4>
+			<h4 style="text-align:center">Diya Gandhi | Organizing Working Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_emily.png" alt="Emily Nigro">
-			<h4 style="text-align:center">Emily Nigro | Co-Organizing Working Group Leader</h4>
+			<h4 style="text-align:center">Emily Nigro | Organizing Working Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_matheu.png" alt="Matheu Boucher">
-			<h4 style="text-align:center">Matheu Boucher | Co-Data Analysis Working Group Leader</h4>
+			<h4 style="text-align:center">Matheu Boucher | Data Analysis Working Group Co-Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<img src="assets/images/img_caleb.png" alt="Caleb Weis">
-			<h4 style="text-align:center">Caleb Weis | Co-Data Analysis Working Group Leader</h4>
+			<h4 style="text-align:center">Caleb Weis | Data Analysis Working Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center"></h3>
