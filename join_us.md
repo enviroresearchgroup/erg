@@ -50,7 +50,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Application</h3>
 				</header>
-				<p>Due 10/10 at 11:59 pm CDT</p>
+				<p>Due Monday 10/11 at 12:00 noon CDT</p>
 				<ul class="actions">
 					<li><a href="https://forms.gle/MrBLo59ehoKuqyhu7" class="button">Apply</a></li>
 				</ul>
