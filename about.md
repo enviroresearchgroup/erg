@@ -44,8 +44,8 @@ nav-menu: true
 		<p>The Policy working group synthesizes the output from the Data Analysis and Modeling working groups with their own social science research to produce novel policy solutions to environmental and urban problems.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Organizing</h3>
-		<p>The Organizing working group takes all these results and works with community leaders to hone our solutions towards a feasible, sustainable product that can be implemented in the Chicago community.</p>
+		<h3>Community Outreach</h3>
+		<p>The Community Outreach working group takes all these results and works with community leaders to hone our solutions towards a feasible, sustainable product that can be implemented in the Chicago community.</p>
 	</div>
 </div>
 
@@ -83,19 +83,19 @@ nav-menu: true
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<img src="assets/images/img_diya.png" alt="Diya Gandhi">
-			<h4 style="text-align:center">Diya Gandhi | Organizing Working Group Co-Leader</h4>
+			<h4 style="text-align:center">Diya Gandhi | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_emily.png" alt="Emily Nigro">
-			<h4 style="text-align:center">Emily Nigro | Organizing Working Group Co-Leader</h4>
+			<h4 style="text-align:center">Emily Nigro | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_matheu.png" alt="Matheu Boucher">
-			<h4 style="text-align:center">Matheu Boucher | Data Analysis Working Group Co-Leader</h4>
+			<h4 style="text-align:center">Matheu Boucher | Data Analysis Group Co-Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<img src="assets/images/img_caleb.png" alt="Caleb Weis">
-			<h4 style="text-align:center">Caleb Weis | Data Analysis Working Group Co-Leader</h4>
+			<h4 style="text-align:center">Caleb Weis | Data Analysis Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center"></h3>
@@ -103,7 +103,7 @@ nav-menu: true
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_theo.png" alt="Theo Lesser">
-			<h4 style="text-align:center">Theo Lesser | Policy Working Group Leader</h4>
+			<h4 style="text-align:center">Theo Lesser | Policy Group Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<h3 style="text-align:center"></h3>
