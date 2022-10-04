@@ -50,7 +50,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Application</h3>
 				</header>
-				<p>Applications not yet open</p>
+				<p>Applications due 10/8 @ 11:59pm</p>
 				<ul class="actions">
 					<li><a href="https://forms.gle/yh6gYV1G3457fwPL9" class="button">Apply</a></li>
 				</ul>
