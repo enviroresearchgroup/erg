@@ -62,7 +62,7 @@ nav-menu: true
 <div class="row">
 	<div class="row">
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_alex.png" alt="Alex Viviano">
+			<img src="assets/images/img_alex2.jfif" alt="Alex Viviano">
 			<h4 style="text-align:center">Alex Viviano | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
@@ -74,7 +74,7 @@ nav-menu: true
 			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
-			<img src="assets/images/img_diya.png" alt="Diya Gandhi">
+			<img src="assets/images/img_diya2.jfif" alt="Diya Gandhi">
 			<h4 style="text-align:center">Diya Gandhi | Community Outreach Liason</h4>
 		</div>
     		<div class="4u 12u$(medium)">
@@ -82,7 +82,7 @@ nav-menu: true
 			<h4 style="text-align:center">Theo Lesser | Policy Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_matthew.png" alt="Matthew Rubenstein">
+			<img src="assets/images/img_matthew.jfif" alt="Matthew Rubenstein">
 			<h4 style="text-align:center">Matthew Rubenstein | Director of Data Analysis New Member Training</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
@@ -94,11 +94,11 @@ nav-menu: true
 			<h4 style="text-align:center">Ethan Jiang | Policy Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_anna.png" alt="Anna Warsaw">
+			<img src="assets/images/img_anna.jfif" alt="Anna Warsaw">
 			<h4 style="text-align:center">Anna Warsaw | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
-			<img src="assets/images/img_xander.png" alt="Xander Deanhardt">
+			<img src="assets/images/img_xander.jfif" alt="Xander Deanhardt">
 			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
@@ -106,15 +106,15 @@ nav-menu: true
 			<h4 style="text-align:center"><i></i></h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_jen.png" alt="Jen Spinoglio">
+			<img src="assets/images/img_jen.jfif" alt="Jen Spinoglio">
 			<h4 style="text-align:center">Jen Spinoglio | Data Analysis Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_sammy.png" alt="Sammy Thiagarajan">
+			<img src="assets/images/img_sammy.jfif" alt="Sammy Thiagarajan">
 			<h4 style="text-align:center">Sammy Thiagarajan | Data Analysis Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_shayona.png" alt="Shayona Basu">
+			<img src="assets/images/img_shayona.jfif" alt="Shayona Basu">
 			<h4 style="text-align:center">Shayona Basu | Treasurer</h4>
 		</div>
 		<div class="4u 12u$(medium)">
