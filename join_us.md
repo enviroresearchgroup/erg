@@ -32,8 +32,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Fall Info Sessions</h3>
 				</header>
-				<p>Find us at the Student Activities Resource Fair 3-5:30pm</p>
-				<p>First meeting 10/11 at 8pm, Location TBD</p>
+				<p>Info Session #1 6-7pm, Tuesday 10/4 in Harper 150</p>
+				<p>Info Session #2 6-7pm, Thursday 10/6 in Harper 150</p>
 				<ul class="actions">
 					<li><a href="https://www.facebook.com/envirochicago/events" class="button">Learn more</a></li>
 				</ul>
@@ -52,7 +52,7 @@ nav-menu: true
 				</header>
 				<p>Applications not yet open</p>
 				<ul class="actions">
-					<li><a href="" class="button">Apply</a></li>
+					<li><a href="https://forms.gle/yh6gYV1G3457fwPL9" class="button">Apply</a></li>
 				</ul>
 			
 			</div>
