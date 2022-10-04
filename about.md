@@ -62,48 +62,64 @@ nav-menu: true
 <div class="row">
 	<div class="row">
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_walker.png" alt="Walker Gillet">
-			<h4 style="text-align:center">Walker Gillett | President</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_michael.png" alt="Michael Han">
-			<h4 style="text-align:center">Michael Han | Director of Community Outreach</h4>
-		</div>
-		<div class="4u$ 12u$(medium)">
 			<img src="assets/images/img_alex.png" alt="Alex Viviano">
-			<h4 style="text-align:center">Alex Viviano | Director of Policy</h4>
-		</div>
-    		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_jessica.png" alt="Jessica Zhong">
-			<h4 style="text-align:center">Jessica Zhong | Director of Communications</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_perrin.png" alt="Perrin Davidson">
-			<h4 style="text-align:center">Perrin Davidson | Director of Research</h4>
-		</div>
-		<div class="4u$ 12u$(medium)">
-			<img src="assets/images/img_diya.png" alt="Diya Gandhi">
-			<h4 style="text-align:center">Diya Gandhi | Community Outreach Group Co-Leader</h4>
+			<h4 style="text-align:center">Alex Viviano | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_emily.png" alt="Emily Nigro">
-			<h4 style="text-align:center">Emily Nigro | Community Outreach Group Co-Leader</h4>
+			<h4 style="text-align:center">Emily Nigro | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_matheu.png" alt="Matheu Boucher">
-			<h4 style="text-align:center">Matheu Boucher | Data Analysis Group Co-Leader</h4>
+			<img src="assets/images/img_jessica.png" alt="Jessica Zhong">
+			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
-			<img src="assets/images/img_caleb.png" alt="Caleb Weis">
-			<h4 style="text-align:center">Caleb Weis | Data Analysis Group Co-Leader</h4>
+			<img src="assets/images/img_diya.png" alt="Diya Gandhi">
+			<h4 style="text-align:center">Diya Gandhi | Community Outreach Liason</h4>
+		</div>
+    		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_theo.png" alt="Theo Lesser">
+			<h4 style="text-align:center">Theo Lesser | Policy Liason</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_matthew.png" alt="Matthew Rubenstein">
+			<h4 style="text-align:center">Matthew Rubenstein | Director of Data Analysis New Member Training</h4>
+		</div>
+		<div class="4u$ 12u$(medium)">
+			<img src="assets/images/img_yoohan.png" alt="Yoohan Ko">
+			<h4 style="text-align:center">Yoohan Ko | Policy Group Co-Leader</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_ethan.png" alt="Ethan Jiang">
+			<h4 style="text-align:center">Ethan Jiang | Policy Group Co-Leader</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_anna.png" alt="Anna Warsaw">
+			<h4 style="text-align:center">Anna Warsaw | Community Outreach Group Co-Leader</h4>
+		</div>
+		<div class="4u$ 12u$(medium)">
+			<img src="assets/images/img_xander.png" alt="Xander Deanhardt">
+			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center"></h3>
 			<h4 style="text-align:center"><i></i></h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_theo.png" alt="Theo Lesser">
-			<h4 style="text-align:center">Theo Lesser | Policy Group Leader</h4>
+			<img src="assets/images/img_jen.png" alt="Jen Spinoglio">
+			<h4 style="text-align:center">Jen Spinoglio | Data Analysis Group Co-Leader</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_sammy.png" alt="Sammy Thiagarajan">
+			<h4 style="text-align:center">Sammy Thiagarajan | Data Analysis Group Co-Leader</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_shayona.png" alt="Shayona Basu">
+			<h4 style="text-align:center">Shayona Basu | Treasurer</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_mehak.png" alt="Mehak Rattan">
+			<h4 style="text-align:center">Mehak Rattan | Communications</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<h3 style="text-align:center"></h3>
