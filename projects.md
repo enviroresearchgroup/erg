@@ -22,18 +22,18 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="z-green-space-chicago.html" class="image"> 
+		<a href="z-water-quality-chicago.html" class="image"> 
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Green Space Distribution</h3>
+					<h3>Water Quality</h3>
 				</header>
-				<p>This project focuses specifically on trying to quantify the connection between green space, access to green space, and environmental justice issues in Chicago. Previous research has shown that such heterogeneous distributions of space uphold environmental racism. Can we find a causal link in Chicago? Is green space really that important? What are possible solutions to the lack of equitable green space distribution in Chicago?
+				<p>This project focuses on tbd
 </p>
 				<ul class="actions">
-					<li><a href="z-green-space-chicago.html" class="button">Learn more</a></li>
+					<li><a href="z-water-quality-chicago.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -51,6 +51,26 @@ nav-menu: true
 </section>
 	
 <!-- Four -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="z-green-space-chicago.html" class="image"> 
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Green Space Distribution</h3>
+				</header>
+				<p>This project focuses specifically on trying to quantify the connection between green space, access to green space, and environmental justice issues in Chicago. Previous research has shown that such heterogeneous distributions of space uphold environmental racism. Can we find a causal link in Chicago? Is green space really that important? What are possible solutions to the lack of equitable green space distribution in Chicago?
+</p>
+				<ul class="actions">
+					<li><a href="z-green-space-chicago.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+<!-- Five -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="z-covid19-air-pollution.html" class="image"> 
