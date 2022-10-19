@@ -62,7 +62,7 @@ nav-menu: true
 <div class="row">
 	<div class="row">
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_alex2.png" alt="Alex Viviano">
+			<img src="assets/images/alex4.png" alt="Alex Viviano">
 			<h4 style="text-align:center">Alex Viviano | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
