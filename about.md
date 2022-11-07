@@ -94,7 +94,7 @@ nav-menu: true
 			<h4 style="text-align:center">Ethan Jiang | Policy Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_anna.png" alt="Anna Warsaw">
+			<img src="assets/images/img_annafin.png" alt="Anna Warsaw">
 			<h4 style="text-align:center">Anna Warsaw | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
