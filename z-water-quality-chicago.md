@@ -11,3 +11,6 @@ This project focuses specifically on trying to quantify the connection between [
 
 # Deliverables
 * TBD
+
+<img src="assets/images/FactSheet1.png" alt="Fact Sheet">
+<img src="assets/images/FactSheet2.png" alt="Fact Sheet">
