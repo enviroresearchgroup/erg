@@ -13,3 +13,6 @@ This project focuses specifically on trying to quantify the connection between g
 * Proposal for improving green space access in Chicago in the next 5 years. 
 * Summary document of interviews with community organizations dedicated to expanding green space.
 * Visualizations and maps of current and historical green space and the tree canopy of Chicago.
+
+
+<img src="assets/images/Fact Sheet.pdf" alt="Fact Sheet">
