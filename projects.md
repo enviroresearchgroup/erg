@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Water Quality</h3>
 				</header>
-				<p>This project focuses on tbd
+				<p>This year (2023) we are focusing on water quality, mainly in terms of lead levels in drinking water, in the city of Chicago. Learn more here:
 </p>
 				<ul class="actions">
 					<li><a href="z-water-quality-chicago.html" class="button">Learn more</a></li>
