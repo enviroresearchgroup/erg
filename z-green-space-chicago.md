@@ -15,5 +15,5 @@ This project focuses specifically on trying to quantify the connection between g
 * Visualizations and maps of current and historical green space and the tree canopy of Chicago.
 
 
-<img src="assets/images/FactSheet1.png" alt="Fact Sheet">
-<img src="assets/images/FactSheet2.png" alt="Fact Sheet">
+<img src="assets/images/erg.png" alt="Data Group Final Product">
+<img src="assets/images/FactSheetLastYear.png" alt="Fact Sheet">
