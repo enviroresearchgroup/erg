@@ -98,7 +98,7 @@ nav-menu: true
 			<h4 style="text-align:center">Anna Warsaw | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
-			<img src="assets/images/img_xanderfinal.png" alt="Xander Deanhardt">
+			<img src="assets/images/xanderfinal.png" alt="Xander Deanhardt">
 			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
