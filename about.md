@@ -102,10 +102,6 @@ nav-menu: true
 			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<h3 style="text-align:center"></h3>
-			<h4 style="text-align:center"><i></i></h4>
-		</div>
-		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_jenfinal.png" alt="Jen Spinoglio">
 			<h4 style="text-align:center">Jen Spinoglio | Data Analysis Group Co-Leader</h4>
 		</div>
