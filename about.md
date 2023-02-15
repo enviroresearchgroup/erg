@@ -90,7 +90,7 @@ nav-menu: true
 			<h4 style="text-align:center">Yoohan Ko | Policy Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_ethan.png" alt="Ethan Jiang">
+			<img src="assets/images/img_ethanfinal.png" alt="Ethan Jiang">
 			<h4 style="text-align:center">Ethan Jiang | Policy Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
