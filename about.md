@@ -73,7 +73,7 @@ nav-menu: true
 			<img src="assets/images/img_jessicafinal.png" alt="Jessica Zhong">
 			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
 		</div>
-		<div class="4u$ 12u$(medium)">
+		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_diyafinal.png" alt="Diya Gandhi">
 			<h4 style="text-align:center">Diya Gandhi | Community Outreach Liason</h4>
 		</div>
@@ -85,7 +85,7 @@ nav-menu: true
 			<img src="assets/images/img_matthewfinal.png" alt="Matthew Rubenstein">
 			<h4 style="text-align:center">Matthew Rubenstein | Director of Data Analysis New Member Training</h4>
 		</div>
-		<div class="4u$ 12u$(medium)">
+		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_yoohan.png" alt="Yoohan Ko">
 			<h4 style="text-align:center">Yoohan Ko | Policy Group Co-Leader</h4>
 		</div>
@@ -97,7 +97,7 @@ nav-menu: true
 			<img src="assets/images/img_annafinal.png" alt="Anna Warsaw">
 			<h4 style="text-align:center">Anna Warsaw | Community Outreach Group Co-Leader</h4>
 		</div>
-		<div class="4u$ 12u$(medium)">
+		<div class="4u 12u$(medium)">
 			<img src="assets/images/xanderfinal.png" alt="Xander Deanhardt">
 			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Group Co-Leader</h4>
 		</div>
@@ -117,10 +117,10 @@ nav-menu: true
 			<img src="assets/images/img_mehakfinal.png" alt="Mehak Rattan">
 			<h4 style="text-align:center">Mehak Rattan | Communications</h4>
 		</div>
-		<div class="4u$ 12u$(medium)">
+		<!--<div class="4u$ 12u$(medium)">
 			<h3 style="text-align:center"></h3>
 			<h4 style="text-align:center"><i></i></h4>
-		</div>
+		</div>-->
 	</div>
 </div>
 
