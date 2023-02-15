@@ -66,11 +66,11 @@ nav-menu: true
 			<h4 style="text-align:center">Alex Viviano | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_emily.png" alt="Emily Nigro">
+			<img src="assets/images/img_emilyfinal.png" alt="Emily Nigro">
 			<h4 style="text-align:center">Emily Nigro | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_jessica.png" alt="Jessica Zhong">
+			<img src="assets/images/img_jessicafinal.png" alt="Jessica Zhong">
 			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
