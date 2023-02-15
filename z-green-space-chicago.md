@@ -16,4 +16,6 @@ This project focuses specifically on trying to quantify the connection between g
 
 
 <img src="assets/images/erg.png" alt="Data Group Final Product">
+
+
 <img src="assets/images/FactSheetLastYear.png" alt="Fact Sheet">
