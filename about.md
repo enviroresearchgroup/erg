@@ -78,7 +78,7 @@ nav-menu: true
 			<h4 style="text-align:center">Diya Gandhi | Community Outreach Liason</h4>
 		</div>
     		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_theo.png" alt="Theo Lesser">
+			<img src="assets/images/img_theofinal.png" alt="Theo Lesser">
 			<h4 style="text-align:center">Theo Lesser | Policy Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
