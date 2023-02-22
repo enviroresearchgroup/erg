@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Water Quality</h3>
 				</header>
-				<p>This year (2023) we are focusing on water quality, mainly in terms of lead levels in drinking water, in the city of Chicago. Learn more here:
+				<p>This project focuses on water contamination issues that affect Chicago residents and natural spaces. Why does Chicago have the most lead pipes of any city in the US, and how are social groups and civic bodies addressing this challenge? What are the implications of Chicago’s water infrastructure for health and agriculture?
 </p>
 				<ul class="actions">
 					<li><a href="z-water-quality-chicago.html" class="button">Learn more</a></li>
