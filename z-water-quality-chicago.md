@@ -19,15 +19,6 @@ The ERG’s Community Outreach team will create and distribute a survey to resid
 **Policy**
 The policy group plans to focus on Chicago-specific water quality policies, with a specialized focus on lead poisoning,  regulated by both the city and the Illinois Pollution Control Board. We aim to analyze both its objectives and results in correlation to the U.S. Clean Water Act, and offer insight and suggestions on how policies in Chicago can better complement the principles of the CWA, and provide a healthy water source for its residents and surrounding environment.
 
-<body>
-    <div class="container">
-      <div class="image">
-        <img src="assets/images/FactSheet1.png.jpg">
-      </div>
-      <div class="text">
-        <h1>Testing text.</h1>
-      </div>
-    </div>
-  </body>
+
 <img src="assets/images/FactSheet1.png" alt="Fact Sheet">
 <img src="assets/images/FactSheet2.png" alt="Fact Sheet">
