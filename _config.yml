@@ -5,13 +5,13 @@ email: chicago.erg@gmail.com
 description: Interfacing Science and Policy Toward Social Good
 baseurl: "/erg" # the subpath of your site, e.g. /blog
 url: "https://enviroresearchgroup.github.io" # the base hostname & protocol for your site
-author:
+author: Matthew Rubenstein
 # street_address: 5801 S. Ellis Ave
 # city: Chicago
 # state: IL
 # zip_code: 60615
 # country: United States of America
-phone: (617) 899-7131
+phone: (773) 702-8650
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,13 +20,13 @@ tiles-count: 4
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/envirochicago
-github_url:
+github_url: https://github.com/Environmental-Research-Group
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
 linkedin_url: https://www.linkedin.com/company/environmental-research-group-of-chicago
 pinterest_url:
-slack_url:
+slack_url: 
 twitter_url: 
 
 # build settings
