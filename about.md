@@ -117,7 +117,7 @@ nav-menu: true
 			<img src="assets/images/img_mehakfinal.png" alt="Mehak Rattan">
 			<h4 style="text-align:center">Mehak Rattan | Communications</h4>
 		</div>
-		<div class="4u$ 12u$(medium)">
+		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center"></h3>
 			<h4 style="text-align:center"><i></i></h4>
 		</div>
