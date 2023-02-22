@@ -33,7 +33,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Data Analysis</h3>
-		<p>The Data Analysis working group quality controls, performs statistical analyses on, and produces engaging graphics of our project data sets.</p>
+		<p>The Data Analysis Group finds interesting trends with water quality data, creates relevant graphics and maps, holds Environmental Data Science workshops, and uses python/basic programming to work with real data from the City of Chicago to develop dynamic models and use machine learning to fore-cast changes</p>
 	</div>
 <!--	<div class="6u$ 12u$(small)">
 		<h3>Modeling</h3>
@@ -41,11 +41,12 @@ nav-menu: true
 	</div> -->
 	<div class="6u 12u$(small)">
 		<h3>Policy</h3>
-		<p>The Policy working group synthesizes the output from the Data Analysis and Modeling working groups with their own social science research to produce novel policy solutions to environmental and urban problems.</p>
+		<p>The Policy Group creates timelines for Chicago’s actions over history, writes and publishs policy recommendation reports, contacts and meets with law and policy professionals to discuss results and potential next steps, and recommends directions for further research.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Community Outreach</h3>
-		<p>The Community Outreach working group takes all these results and works with community leaders to hone our solutions towards a feasible, sustainable product that can be implemented in the Chicago community.</p>
+		<p>The Community Outreach Group helped create a UChicago-wide RSO sustainability committee, conducts human research through surveys and interviews,
+organizes community service opportunities and fireside chats, interviews city officials who make policy decisions, and gets hands-on experience in the local community.</p>
 	</div>
 </div>
 
