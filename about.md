@@ -74,7 +74,7 @@ nav-menu: true
 			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_diyafinal.png" alt="Diya Gandhi">
+			<img src="assets/images/img_diyafinal2.png" alt="Diya Gandhi">
 			<h4 style="text-align:center">Diya Gandhi | Community Outreach Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
