@@ -60,63 +60,61 @@ nav-menu: true
 
 <!-- Content Three-->
 <div class="row">
-	<div class="row">
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_alexfinal2.png" alt="Alex Viviano">
-			<h4 style="text-align:center">Alex Viviano | Co-President</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_emilyfinal.png" alt="Emily Nigro">
-			<h4 style="text-align:center">Emily Nigro | Co-President</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_jessicafinal.png" alt="Jessica Zhong">
-			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_diyafinal.png" alt="Diya Gandhi">
-			<h4 style="text-align:center">Diya Gandhi | Community Outreach Liason</h4>
-		</div>
-    		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_theofinal.png" alt="Theo Lesser">
-			<h4 style="text-align:center">Theo Lesser | Policy Liason</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_matthewfinal.png" alt="Matthew Rubenstein">
-			<h4 style="text-align:center">Matthew Rubenstein | Director of Data Analysis New Member Training</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_yoohanfinal.png" alt="Yoohan Ko">
-			<h4 style="text-align:center">Yoohan Ko | Policy Group Co-Leader</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_ethanfinal.png" alt="Ethan Jiang">
-			<h4 style="text-align:center">Ethan Jiang | Policy Group Co-Leader</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_annafinal.png" alt="Anna Warsaw">
-			<h4 style="text-align:center">Anna Warsaw | Community Outreach Group Co-Leader</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/xanderfinal.png" alt="Xander Deanhardt">
-			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Group Co-Leader</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_jenfinal.png" alt="Jen Spinoglio">
-			<h4 style="text-align:center">Jen Spinoglio | Data Analysis Group Co-Leader</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_sammyfinal.png" alt="Sammy Thiagarajan">
-			<h4 style="text-align:center">Sammy Thiagarajan | Data Analysis Group Co-Leader</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_shayonafinal.png" alt="Shayona Basu">
-			<h4 style="text-align:center">Shayona Basu | Treasurer</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_mehakfinal.png" alt="Mehak Rattan">
-			<h4 style="text-align:center">Mehak Rattan | Communications</h4>
-		</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_alexfinal2.png" alt="Alex Viviano">
+		<h4 style="text-align:center">Alex Viviano | Co-President</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_emilyfinal.png" alt="Emily Nigro">
+		<h4 style="text-align:center">Emily Nigro | Co-President</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_jessicafinal.png" alt="Jessica Zhong">
+		<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_diyafinal.png" alt="Diya Gandhi">
+		<h4 style="text-align:center">Diya Gandhi | Community Outreach Liason</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_theofinal.png" alt="Theo Lesser">
+		<h4 style="text-align:center">Theo Lesser | Policy Liason</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_matthewfinal.png" alt="Matthew Rubenstein">
+		<h4 style="text-align:center">Matthew Rubenstein | Director of Data Analysis New Member Training</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_yoohanfinal.png" alt="Yoohan Ko">
+		<h4 style="text-align:center">Yoohan Ko | Policy Group Co-Leader</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_ethanfinal.png" alt="Ethan Jiang">
+		<h4 style="text-align:center">Ethan Jiang | Policy Group Co-Leader</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_annafinal.png" alt="Anna Warsaw">
+		<h4 style="text-align:center">Anna Warsaw | Community Outreach Group Co-Leader</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/xanderfinal.png" alt="Xander Deanhardt">
+		<h4 style="text-align:center">Xander Deanhardt | Community Outreach Group Co-Leader</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_jenfinal.png" alt="Jen Spinoglio">
+		<h4 style="text-align:center">Jen Spinoglio | Data Analysis Group Co-Leader</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_sammyfinal.png" alt="Sammy Thiagarajan">
+		<h4 style="text-align:center">Sammy Thiagarajan | Data Analysis Group Co-Leader</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_shayonafinal.png" alt="Shayona Basu">
+		<h4 style="text-align:center">Shayona Basu | Treasurer</h4>
+	</div>
+	<div class="4u 12u$(medium)">
+		<img src="assets/images/img_mehakfinal.png" alt="Mehak Rattan">
+		<h4 style="text-align:center">Mehak Rattan | Communications</h4>
 	</div>
 </div>
 
