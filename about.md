@@ -86,7 +86,7 @@ nav-menu: true
 			<h4 style="text-align:center">Matthew Rubenstein | Director of Data Analysis New Member Training</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_yoohan.png" alt="Yoohan Ko">
+			<img src="assets/images/img_yoohanfinal.png" alt="Yoohan Ko">
 			<h4 style="text-align:center">Yoohan Ko | Policy Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
