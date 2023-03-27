@@ -13,3 +13,5 @@ This project is working at the intersection of air quality, transportation, and 
 * Identify and visualize key shifts in transit usage due to stay-at-home orders
 * White paper on line extension and air pollution mitigation
 * Communicate policy plans with community and constraining given input
+
+<img src="assets/images/Organization Group Poster.png" alt="Organization Group Poster">
