@@ -28,3 +28,6 @@ The Environmental Research Group conducted a multi-faceted research project on g
     <img src="assets/images/GreenSpaceOverview.png" alt="Fact Sheet" style="width:35%">
   </div>
 </div>
+
+<embed src="asset/images/Green Space Summary Report.pdf" />
+
