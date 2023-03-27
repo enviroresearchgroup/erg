@@ -24,5 +24,9 @@ The Environmental Research Group conducted a multi-faceted research project on g
   </div>
 </div>
 
-<embed src="asset/images/Green Space Summary Report.pdf" />
+<object data=
+"asset/images/Green Space Summary Report.pdf" 
+                width="800" 
+                height="500"> 
+        </object>
 
