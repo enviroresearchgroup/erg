@@ -11,12 +11,12 @@ The Environmental Research Group conducted a multi-faceted research project on g
 
 # Deliverables
 * Proposal for improving green space access in Chicago in the next 5 years. 
-  * <p><a src="asset/images/Green Space Summary Report.pdf">Survey of the Access and Distribution of Green Spaces in the Greater Chicago Area </a></p>
 * Summary document of interviews with community organizations dedicated to expanding green space.
+ * <p><a href="asset/images/Green Space Summary Report.pdf">Survey of the Access and Distribution of Green Spaces in the Greater Chicago Area</a></p>
 * Visualizations and maps of current and historical green space and the tree canopy of Chicago.
 
 
 <img src="assets/images/erg.png" alt="Data Group Final Product">
 
 
-<img src="assets/images/FactSheetLastYear.png" alt="Fact Sheet">
+<img src="assets/images/Green Space Overview.png" alt="Fact Sheet">
