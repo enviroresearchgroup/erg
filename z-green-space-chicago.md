@@ -20,10 +20,13 @@ The Environmental Research Group conducted a multi-faceted research project on g
     <img src="assets/images/erg.png" alt="Data Group Final Product">
   </div>
   <div class="column" style="width:40%">
-    <embed src="assets/images/Green Space Summary Report.pdf"/>
+   <object data=
+"assets/images/Green Space Summary Report.pdf"> 
+        </object>
   </div>
 </div>
 
+<embed src="assets/images/Green Space Summary Report.pdf"/>
 <object data=
 "assets/images/Green Space Summary Report.pdf" 
                 width="800" 
