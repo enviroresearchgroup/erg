@@ -16,12 +16,13 @@ The Environmental Research Group conducted a multi-faceted research project on g
 * Visualizations and maps of current and historical green space and the tree canopy of Chicago.
 
 <div class="row">
-  <div class="column" style="width:60%">
+  <div class="column" style="width:50%">
     <img src="assets/images/erg.png" alt="Data Group Final Product">
   </div>
-  <div class="column" style="width:40%">
+  <div class="column" style="width:50%">
    <object data=
-"assets/images/Green Space Summary Report.pdf"> 
+"assets/images/Green Space Summary Report.pdf"
+           width = "100%"> 
         </object>
   </div>
 </div>
