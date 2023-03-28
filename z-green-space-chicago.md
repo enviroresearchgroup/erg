@@ -20,7 +20,7 @@ The Environmental Research Group conducted a multi-faceted research project on g
     <img src="assets/images/erg.png" alt="Data Group Final Product">
   </div>
   <div class="column" style="width:40%">
-    <img src="assets/images/GreenSpaceOverview.png" alt="Fact Sheet">
+    <embed src="assets/images/Green Space Summary Report.pdf"/>
   </div>
 </div>
 
@@ -29,7 +29,5 @@ The Environmental Research Group conducted a multi-faceted research project on g
                 width="800" 
                 height="500"> 
         </object>
-Test
-      
-<embed src="assets/images/Green Space Summary Report.pdf"/>
+<img src="assets/images/GreenSpaceOverview.png" alt="Fact Sheet">
 
