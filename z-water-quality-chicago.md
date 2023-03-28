@@ -22,10 +22,10 @@ The policy group is focusing on Chicago-specific water quality policies, with a 
 * <p><a href="assets/images/US Water Policy Reference Sheet.pdf">US Water Policy Reference Sheet</a></p>
 
 <div class="row">
-  <div class="column" style="width:60%">
+  <div class="column" style="width:50%">
     <img src="assets/images/FactSheet1.png" alt="Fact Sheet">
   </div>
-  <div class="column" style="width:40%">
+  <div class="column" style="width:50%">
    <img src="assets/images/FactSheet2.png" alt="Fact Sheet">
   </div>
 </div>
