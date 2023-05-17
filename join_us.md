@@ -32,8 +32,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Fall Info Sessions</h3>
 				</header>
-				<p>Info Session #1 6-7pm, Tuesday 10/4 in Harper 150</p>
-				<p>Info Session #2 6-7pm, Thursday 10/6 in Harper 150</p>
+				<p>Info Session #1 6-7pm, TBD</p>
+				<p>Info Session #2 6-7pm, TBD</p>
+				<p>Email us at chicago.erg@gmail.com for more information, or join us on <a href="https://blueprint.uchicago.edu/organization/erg">blueprint</a></p>
 				<ul class="actions">
 					<li><a href="https://www.facebook.com/envirochicago/events" class="button">Learn more</a></li>
 				</ul>
@@ -50,9 +51,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Application</h3>
 				</header>
-				<p>Applications due 10/8 @ 11:59pm</p>
+				<p>Applications for the 2023-24 school year will be released in mid-September; stay tuned!</p>
 				<ul class="actions">
-					<li><a href="https://forms.gle/yh6gYV1G3457fwPL9" class="button">Apply</a></li>
+					<li><a href="https://enviroresearchgroup.github.io/erg/contact.html" class="button">Apply</a></li>
 				</ul>
 			
 			</div>
