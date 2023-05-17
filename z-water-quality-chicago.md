@@ -13,6 +13,7 @@ Lead contamination in drinking water remains a pressing concern, especially in t
 # Deliverables
 **Data Analysis**
 The project we’re be looking into this year will be on Chicago water quality, with the main focus being lead contamination. We have divided into smaller subgroups, with each one focusing on an individual topic to investigate and analyze, similar to last year. Our role, as leaders, will be to teach new members with no data science experience how to code, and to integrate those members into the smaller working groups as we guide the groups towards deliverables.  Potential data sources will include the City of Chicago data portal and independent research.
+* <p><a href="assets/images/ERG Lead Abstract.pdf">Lead Testing Disparity in Income</a></p>
 
 **Community Outreach**
 The ERG’s Community Outreach team is creating and distributing a survey to residents of different Chicago neighborhoods to gain insight into what community members know about lead in Chicago drinking water and hear how this issue affects their lives. We also hope to go out into the community to talk to those affected by lead pollution, hear their concerns, and help them test their water for lead. We would also like to interview various organizations involved in this issue. Ultimately, we will produce a report based on the results of the survey and our interviews with community organizations.
