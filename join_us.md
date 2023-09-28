@@ -51,9 +51,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Application</h3>
 				</header>
-				<p>Applications for the 2023-24 school year will be released on September 20th, 2023; stay tuned!</p>
+				<p>Applications for the 2023-24 school year close Saturday October 7th, 2023, 11:59pm!</p>
 				<ul class="actions">
-					<li><a href="https://enviroresearchgroup.github.io/erg/contact.html" class="button">Apply</a></li>
+					<li><a href="https://forms.gle/fLyrK5zy31ueSvWVA" class="button">Apply</a></li>
 				</ul>
 			
 			</div>
