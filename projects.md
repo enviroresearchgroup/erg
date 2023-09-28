@@ -22,6 +22,38 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://forms.gle/fLyrK5zy31ueSvWVA" class="image"> 
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Air Pollution</h3>
+				</header>
+				<p>This project focuses on air pollution issues that affect Chicago residents and natural spaces. What are the main causes of air pollution in the city, and how does air pollution affect various groups of city residents? What are the current methods being used to address the problem, through the legal system and through the community? What does the city need to focus on to create a cleaner future for its residents?
+</p>
+				<ul class="actions">
+					<li><a href="https://forms.gle/fLyrK5zy31ueSvWVA" class="button">Apply Now!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+
+
+<!-- Three -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Past Projects</h2>
+		</header>
+		<p>Listed below are our past projects.</p>
+	</div>
+</section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
 		<a href="z-water-quality-chicago.html" class="image"> 
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -40,16 +72,6 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Past Projects</h2>
-		</header>
-		<p>Listed below are our past projects.</p>
-	</div>
-</section>
-	
 <!-- Four -->
 <section id="two" class="spotlights">
 	<section>
