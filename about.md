@@ -75,7 +75,7 @@ organizes community service opportunities and fireside chats, interviews city of
 			<h4 style="text-align:center">Yoohan Ko | Director of Media and Outreach</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_xanderfinal.png" alt="Diya Gandhi">
+			<img src="assets/images/xanderfinal.png" alt="Xander Deanhardt">
 			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
