@@ -67,7 +67,7 @@ organizes community service opportunities and fireside chats, interviews city of
 			<h4 style="text-align:center">Diya Gandhi | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_matthewfinal.png" alt="Matthew Rubenstein">
+			<img src="assets/images/img_matthewfinal2.png" alt="Matthew Rubenstein">
 			<h4 style="text-align:center">Matthew Rubenstein | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
