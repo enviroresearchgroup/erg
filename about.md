@@ -63,52 +63,48 @@ organizes community service opportunities and fireside chats, interviews city of
 <div class="row">
 	<div class="row">
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_alexfinal2.png" alt="Alex Viviano">
-			<h4 style="text-align:center">Alex Viviano | Co-President</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_emilyfinal.png" alt="Emily Nigro">
-			<h4 style="text-align:center">Emily Nigro | Co-President</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_jessicafinal.png" alt="Jessica Zhong">
-			<h4 style="text-align:center">Jessica Zhong | Director of Media and Outreach</h4>
-		</div>
-		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_diyafinal2.png" alt="Diya Gandhi">
-			<h4 style="text-align:center">Diya Gandhi | Community Outreach Liason</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_theofinal.png" alt="Theo Lesser">
-			<h4 style="text-align:center">Theo Lesser | Policy Liason</h4>
+			<h4 style="text-align:center">Diya Gandhi | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_matthewfinal.png" alt="Matthew Rubenstein">
-			<h4 style="text-align:center">Matthew Rubenstein | Director of Data Analysis New Member Training</h4>
+			<h4 style="text-align:center">Matthew Rubenstein | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_yoohanfinal.png" alt="Yoohan Ko">
-			<h4 style="text-align:center">Yoohan Ko | Policy Group Co-Leader</h4>
+			<h4 style="text-align:center">Yoohan Ko | Director of Media and Outreach</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_ethanfinal.png" alt="Ethan Jiang">
-			<h4 style="text-align:center">Ethan Jiang | Policy Group Co-Leader</h4>
+			<img src="assets/images/img_xanderfinal.png" alt="Diya Gandhi">
+			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_annafinal.png" alt="Anna Warsaw">
-			<h4 style="text-align:center">Anna Warsaw | Community Outreach Group Co-Leader</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/xanderfinal.png" alt="Xander Deanhardt">
-			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Group Co-Leader</h4>
+			<img src="assets/images/img_ethanfinal.png" alt="Theo Lesser">
+			<h4 style="text-align:center">Ethan Jiang | Policy Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_jenfinal.png" alt="Jen Spinoglio">
-			<h4 style="text-align:center">Jen Spinoglio | Data Analysis Group Co-Leader</h4>
+			<h4 style="text-align:center">Jen Spinoglio | Director of Data Analysis New Member Training</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_noahfinal.png" alt="Noah Crutchfield">
+			<h4 style="text-align:center">Noah Crutchfield | Policy Group Co-Leader</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_zachfinal.png" alt="Zachary Kratzer">
+			<h4 style="text-align:center">Zachary Kratzer | Community Outreach Group Co-Leader</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/katjafinal.png" alt="Katja Edwards">
+			<h4 style="text-align:center">Katja Edwards | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_sammyfinal.png" alt="Sammy Thiagarajan">
 			<h4 style="text-align:center">Sammy Thiagarajan | Data Analysis Group Co-Leader</h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<img src="assets/images/img_kevinfinal.png" alt="Kevin Lin">
+			<h4 style="text-align:center">Kevin Lin | Data Analysis Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_shayonafinal.png" alt="Shayona Basu">
