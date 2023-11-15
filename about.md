@@ -79,7 +79,7 @@ organizes community service opportunities and fireside chats, interviews city of
 			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_ethanfinal.png" alt="Theo Lesser">
+			<img src="assets/images/img_ethanfinal23.png" alt="Theo Lesser">
 			<h4 style="text-align:center">Ethan Jiang | Policy Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
@@ -99,7 +99,7 @@ organizes community service opportunities and fireside chats, interviews city of
 			<h4 style="text-align:center">Katja Edwards | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_sammyfinal.png" alt="Sammy Thiagarajan">
+			<img src="assets/images/img_sammyfinal23.png" alt="Sammy Thiagarajan">
 			<h4 style="text-align:center">Sammy Thiagarajan | Data Analysis Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
