@@ -19,6 +19,17 @@ nav-menu: true
 	</div>
 </section>
 
+
+<!-- Three -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Past Projects</h2>
+		</header>
+		<p>Listed below are our past projects.</p>
+	</div>
+</section>
+
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
@@ -40,16 +51,6 @@ nav-menu: true
 	</section>
 </section>
 
-
-<!-- Three -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Past Projects</h2>
-		</header>
-		<p>Listed below are our past projects.</p>
-	</div>
-</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
