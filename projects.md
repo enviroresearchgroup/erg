@@ -19,6 +19,26 @@ nav-menu: true
 	</div>
 </section>
 
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="https://forms.gle/fLyrK5zy31ueSvWVA" class="image"> 
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Vacant Lots</h3>
+				</header>
+				<p>This project focuses on the excess of vacant lots in Chicago, particularly in the South Side. What are the main drivers of these vacant lots, and how do they effect the ecosytems of Chicago, as well as the economic development of the city? What are relevant social groups as well as government organisations doing to combat vacant lots? How can we create a future where Chicago develops in a prosperous and green manner? 
+</p>
+				<ul class="actions">
+					<li><a href="z-vacant-lots-chicago.html" class="button">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
 
 <!-- Three -->
 <section id="one">
