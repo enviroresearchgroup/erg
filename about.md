@@ -44,9 +44,8 @@ nav-menu: true
 		<p>The Policy Group creates timelines for Chicago’s actions over history, writes and publishs policy recommendation reports, contacts and meets with law and policy professionals to discuss results and potential next steps, and recommends directions for further research.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Community Outreach</h3>
-		<p>The Community Outreach Group helped create a UChicago-wide RSO sustainability committee, conducts human research through surveys and interviews,
-organizes community service opportunities and fireside chats, interviews city officials who make policy decisions, and gets hands-on experience in the local community.</p>
+		<h3>Economic Modeling</h3>
+		<p>The Economic Modeling group allows ERG to test the implications of analyzed policies in a quantitative lense. By creating a variation of data-driven and toy models, Economic Modeling is able to examine the problem's ERG faces from a theoretical and impact centered approach. </p>
 	</div>
 </div>
 
