@@ -38,7 +38,8 @@ funded developments in Morgan Park, South Chicago, and West Chatham.
 employment, and community engagement across Chicago. By offering low prices for these lots
 with additional support for construction assistance and reduction of fees associated with buying
 or selling properties, these programs give smaller developers opportunities while also creating
-affordable homes and community spaces for Chicago residents
+affordable homes and community spaces for Chicago residents.
+
 By Alethea Oakley, Policy Team
 
 Citations
