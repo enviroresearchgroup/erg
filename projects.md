@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://forms.gle/fLyrK5zy31ueSvWVA" class="image"> 
+		<a href="https://www.chicago.gov/city/en/sites/block-builder/home.html" class="image"> 
 			<img src="VacantLandPhoto1.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
