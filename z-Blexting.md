@@ -8,7 +8,7 @@ The online database had 378,723 parcels of land that were publicly navigable, an
 
 “Blexting” acted as a frontier for technological solutions for urban blight, and I wonder how something similar could be enacted in Chicago. While Chicago has an enormous amount of vacant lots, the city also has thousands of abandoned sites. An online surveying database would allow community members to get involved with the vacant or abandoned lots in their own neighborhoods. It would encourage local engagement and further would put pressure on the City of Chicago to respond to and reform unused spaces. I hope to see Chicago can use a similar online approach to “Blexting” to begin to transform the city's vast array of vacant and unusable space into meaningful community areas. 
 
-By Nick McNamara
+By Matilda Spadoni
 
 Sources:
 https://crdpala.org/2019/04/12/what-ever-happened-to-blexting/#:~:text=As%20much%20as%20it%20may,federal%20government%20for%20blight%20reduction.
