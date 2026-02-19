@@ -36,6 +36,7 @@ nav-menu: true
 					<li><a href="z-vacant-lots-chicago.html" class="button">One Pager</a></li>
 					<li><a href="z-chi-current-efforts.html" class="button">Chicago's Current Efforts</a></li>
 					<li><a href="h3_vacant_lot_tracker_jenks_only (2).html" class="button">Historical Vacant Lot Tracker</a></li>
+					<li><a href="z-Blexting.md" class="button">Blexting: Learning from Detroit</a></li>
 				</ul>
 			</div>
 		</div>
