@@ -2,7 +2,7 @@
 layout: post
 title: Transit-Oriented Development
 description: Transit-Oriented Development in Chicago and its effect on vacant lots
-image: 
+image: TOD_MtProspect.jpg
 nav-menu: true
 ---
 	Transit-oriented development (TOD) is a key concept for understanding today’s urban planning landscape. It falls under the broader category of transit-supportive development (TSD), which is the advancement of transport services to the end of encouraging local development. TOD is specifically the simultaneous and reciprocally-supporting development of public transit in tandem with local development, making new urban zones accessible without traditional car-centric infrastructure. Equitable transit-oriented development (eTOD) is even more specifically a form of TOD which ensures that new urban zones are affordable and their jobs accessible to everyone in local communities, encourages community culture, and aims to address displacement caused by development.
@@ -47,6 +47,7 @@ https://www.psychologytoday.com/us/basics/broken-windows-theory
 
 https://www.iza.org/publications/dp/693/spatial-mismatch-from-the-hypothesis-to-the-theories 
 
+https://metra.com/TOD
 
 
 
