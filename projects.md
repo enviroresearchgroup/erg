@@ -58,7 +58,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://forms.gle/fLyrK5zy31ueSvWVA" class="image"> 
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="transit.HEIC" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
