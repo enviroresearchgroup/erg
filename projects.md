@@ -68,7 +68,7 @@ nav-menu: true
 				<p>On an average weekday, Chicago’s trains and buses provide over 750,000 rides. The city’s public transit system is its single most effective climate solution, displacing rides and emissions from automobiles. Still, Chicago has significant room to improve its transit system and offer accessible, equitable, and sustainable transportation.
 </p>
 				<ul class="actions">
-					<li><a href="ERG - Transportation One Pager.pdf" class="button">Learn More</a></li>
+					<li><a href="ERG - Transportation One Pager.pdf" class="button">One Pager</a></li>
 				</ul>
 			</div>
 		</div>
