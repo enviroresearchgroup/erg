@@ -63,6 +63,27 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>Transit</h3>
+				</header>
+				<p>On an average weekday, Chicago’s trains and buses provide over 750,000 rides. The city’s public transit system is its single most effective climate solution, displacing rides and emissions from automobiles. Still, Chicago has significant room to improve its transit system and offer accessible, equitable, and sustainable transportation.
+</p>
+				<ul class="actions">
+					<li><a href="z-air-quality-chicago.html" class="button">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="https://forms.gle/fLyrK5zy31ueSvWVA" class="image"> 
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>Air Pollution</h3>
 				</header>
 				<p>This project focuses on air pollution issues that affect Chicago residents and natural spaces. What are the main causes of air pollution in the city, and how does air pollution affect various groups of city residents? What are the current methods being used to address the problem, through the legal system and through the community? What does the city need to focus on to create a cleaner future for its residents?
