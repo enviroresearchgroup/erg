@@ -62,40 +62,26 @@ nav-menu: true
 <div class="row">
 	<div class="row">
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_diyafinal2.png" alt="Diya Gandhi">
-			<h4 style="text-align:center">Diya Gandhi | Co-President</h4>
+			<img src="assets/images/img_diyafinal2.png" alt="Sadie Foer">
+			<h4 style="text-align:center">Sadie Foer | Co-President</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_matthewfinal2.png" alt="Matthew Rubenstein">
-			<h4 style="text-align:center">Matthew Rubenstein | Co-President</h4>
+			<img src="assets/images/img_matthewfinal2.png" alt="Sanju Patel">
+			<h4 style="text-align:center">Sanju Patel | Co-President</h4>
 		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_yoohanfinal.png" alt="Yoohan Ko">
-			<h4 style="text-align:center">Yoohan Ko | Director of Media and Outreach</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/xanderfinal.png" alt="Xander Deanhardt">
-			<h4 style="text-align:center">Xander Deanhardt | Community Outreach Liason</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_ethanfinal23.png" alt="Theo Lesser">
-			<h4 style="text-align:center">Ethan Jiang | Policy Liason</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_jenfinal.png" alt="Jen Spinoglio">
-			<h4 style="text-align:center">Jen Spinoglio | Director of Data Analysis New Member Training</h4>
+			<h4 style="text-align:center">Ethan Jiang | Policy Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_noahfinal.png" alt="Noah Crutchfield">
-			<h4 style="text-align:center">Noah Crutchfield | Policy Group Co-Leader</h4>
+			<h4 style="text-align:center">Noah Crutchfield | Policy Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_zachfinal.png" alt="Zachary Kratzer">
-			<h4 style="text-align:center">Zachary Kratzer | Community Outreach Group Co-Leader</h4>
+			<img src="assets/images/img_zachfinal.png" alt="Rudra Patel">
+			<h4 style="text-align:center">Rudra Patel | Economic Modeling Leader</h4>
 		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/katjafinal.png" alt="Katja Edwards">
-			<h4 style="text-align:center">Katja Edwards | Community Outreach Group Co-Leader</h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_sammyfinal23.png" alt="Sammy Thiagarajan">
@@ -104,15 +90,6 @@ nav-menu: true
 		<div class="4u 12u$(medium)">
 			<img src="assets/images/img_kevinfinal.png" alt="Kevin Lin">
 			<h4 style="text-align:center">Kevin Lin | Data Analysis Group Co-Leader</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_shayonafinal.png" alt="Shayona Basu">
-			<h4 style="text-align:center">Shayona Basu | Treasurer</h4>
-		</div>
-		<div class="4u 12u$(medium)">
-			<img src="assets/images/img_mehakfinal.png" alt="Mehak Rattan">
-			<h4 style="text-align:center">Mehak Rattan | Communications</h4>
-		</div>
 	</div>
 </div>
 <hr class="major" />
